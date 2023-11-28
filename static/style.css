@@ -1,0 +1,25 @@
+body {
+    background-color: green;
+}
+
+.container {
+    background-color:rgba(0, 0, 0, 0.267);
+}
+
+h1 {
+    font-size: 62px;
+    color: white;
+}
+
+h5 {
+    color: #E4A11B;
+}
+
+label {
+    color: white;
+    font-size: larger;
+}
+
+.card-button {
+    display: none;
+}
